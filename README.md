@@ -4,7 +4,9 @@
 
 ## Members
 
-# Steven Jarmell : Email- sjj27@pitt.edu
+Steven Jarmell : Email- sjj27@pitt.edu
+
+#
 #
 #
 
