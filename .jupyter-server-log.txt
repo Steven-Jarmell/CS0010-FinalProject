@@ -1,0 +1,110 @@
+[I 18:07:27.031 NotebookApp] Writing notebook server cookie secret to /home/jovyan/.local/share/jupyter/runtime/notebook_cookie_secret
+[W 2021-04-21 18:07:28.704 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-04-21 18:07:28.704 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-04-21 18:07:28.704 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-04-21 18:07:28.704 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-04-21 18:07:28.704 LabApp] 'trust_xheaders' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-04-21 18:07:28.704 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-04-21 18:07:28.705 LabApp] 'allow_origin_pat' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-04-21 18:07:28.705 LabApp] 'extra_template_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-04-21 18:07:28.705 LabApp] 'jinja_template_vars' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-04-21 18:07:28.705 LabApp] 'shutdown_no_activity_timeout' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-04-21 18:07:28.705 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-04-21 18:07:28.705 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2021-04-21 18:07:28.715 LabApp] JupyterLab extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/jupyterlab
+[I 2021-04-21 18:07:28.715 LabApp] JupyterLab application directory is /srv/conda/envs/notebook/share/jupyter/lab
+[I 18:07:28.726 NotebookApp] nteract extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/nteract_on_jupyter
+[I 18:07:28.728 NotebookApp] Will shut down after 600 seconds with no kernels or terminals.
+[I 18:07:28.729 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[I 18:07:28.729 NotebookApp] Jupyter Notebook 6.2.0 is running at:
+[I 18:07:28.729 NotebookApp] http://jupyter-pitt-2dsci-2dcmpinf0010-2dlab-2d9-2dhve37ylb:8888/user/pitt-sci-cmpinf0010-lab-9-hve37ylb/?token=...
+[I 18:07:28.729 NotebookApp]  or http://127.0.0.1:8888/user/pitt-sci-cmpinf0010-lab-9-hve37ylb/?token=...
+[I 18:07:28.729 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 18:07:28.735 NotebookApp] No web browser found: could not locate runnable browser.
+[I 18:07:28.739 NotebookApp] 302 GET /user/pitt-sci-cmpinf0010-lab-9-hve37ylb/ (10.0.3.10) 2.570000ms
+[I 18:07:34.315 NotebookApp] 301 GET /user/pitt-sci-cmpinf0010-lab-9-hve37ylb/static/favicons/favicon.ico (50.231.83.147) 0.720000ms
+[I 2021-04-21 18:07:37.801 LabApp] Build is up to date
+[W 18:07:50.467 NotebookApp] delete /diabetes.csv
+[W 18:07:54.508 NotebookApp] delete /environment.yml
+[W 18:07:59.795 NotebookApp] delete /Lab-9-Lecture.ipynb
+[W 18:08:03.497 NotebookApp] delete /README.md
+[W 18:08:05.908 NotebookApp] delete /steps.csv
+[I 18:08:20.472 NotebookApp] New terminal with automatic name: 1
+TermSocket.open: 1
+TermSocket.open: Opened 1
+[I 18:08:42.288 NotebookApp] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[W 18:08:42.289 NotebookApp] Notebook CS0010-FinalProject/GenerateNeighborhoods.ipynb is not trusted
+[I 18:08:42.928 NotebookApp] Kernel started: f707af51-17c5-4d42-9e0b-e22330077933, name: python3
+[I 18:08:42.929 NotebookApp] Culling kernels with idle durations > 600 seconds at 60 second intervals ...
+[I 18:08:42.929 NotebookApp] Culling kernels even with connected clients
+[I 18:08:43.983 NotebookApp] 301 GET /user/pitt-sci-cmpinf0010-lab-9-hve37ylb/static/favicons/favicon-busy-1.ico (50.231.83.147) 0.880000ms
+[I 18:10:42.664 NotebookApp] Saving file at /CS0010-FinalProject/GenerateNeighborhoods.ipynb
+[W 18:10:42.665 NotebookApp] Notebook CS0010-FinalProject/GenerateNeighborhoods.ipynb is not trusted
+[W 18:11:04.313 NotebookApp] Notebook CS0010-FinalProject/ConnorNotebook .ipynb is not trusted
+[I 18:11:04.841 NotebookApp] Kernel started: 1428d1fa-f158-4040-89f1-ca03e4ddf73d, name: python3
+[I 18:13:04.647 NotebookApp] Saving file at /CS0010-FinalProject/ConnorNotebook .ipynb
+[W 18:13:04.647 NotebookApp] Notebook CS0010-FinalProject/ConnorNotebook .ipynb is not trusted
+[I 18:15:05.343 NotebookApp] Saving file at /CS0010-FinalProject/ConnorNotebook .ipynb
+[I 18:17:05.774 NotebookApp] Saving file at /CS0010-FinalProject/ConnorNotebook .ipynb
+[W 18:20:42.930 NotebookApp] Culling 'idle' kernel 'python3' (f707af51-17c5-4d42-9e0b-e22330077933) with 2 connections due to 659 seconds of inactivity.
+[I 18:20:42.931 NotebookApp] Kernel shutdown: f707af51-17c5-4d42-9e0b-e22330077933
+[I 18:21:06.020 NotebookApp] Saving file at /CS0010-FinalProject/ConnorNotebook .ipynb
+[I 18:23:07.113 NotebookApp] Saving file at /CS0010-FinalProject/ConnorNotebook .ipynb
+[I 18:27:08.081 NotebookApp] Saving file at /CS0010-FinalProject/ConnorNotebook .ipynb
+[I 18:29:08.352 NotebookApp] Saving file at /CS0010-FinalProject/ConnorNotebook .ipynb
+[I 18:31:08.647 NotebookApp] Saving file at /CS0010-FinalProject/ConnorNotebook .ipynb
+[I 18:33:08.989 NotebookApp] Saving file at /CS0010-FinalProject/ConnorNotebook .ipynb
+[I 18:35:09.199 NotebookApp] Saving file at /CS0010-FinalProject/ConnorNotebook .ipynb
+[I 18:37:09.603 NotebookApp] Saving file at /CS0010-FinalProject/ConnorNotebook .ipynb
+[I 18:39:09.972 NotebookApp] Saving file at /CS0010-FinalProject/ConnorNotebook .ipynb
+[I 18:41:10.355 NotebookApp] Saving file at /CS0010-FinalProject/ConnorNotebook .ipynb
+[I 18:43:10.582 NotebookApp] Saving file at /CS0010-FinalProject/ConnorNotebook .ipynb
+[I 18:45:10.856 NotebookApp] Saving file at /CS0010-FinalProject/ConnorNotebook .ipynb
+[I 18:47:11.088 NotebookApp] Saving file at /CS0010-FinalProject/ConnorNotebook .ipynb
+[I 18:49:11.645 NotebookApp] Saving file at /CS0010-FinalProject/ConnorNotebook .ipynb
+[I 18:51:12.118 NotebookApp] Saving file at /CS0010-FinalProject/ConnorNotebook .ipynb
+[I 18:53:12.412 NotebookApp] Saving file at /CS0010-FinalProject/ConnorNotebook .ipynb
+[I 18:55:09.371 NotebookApp] Kernel started: b0b36c0e-f4b6-40e7-84be-2cca67246491, name: python3
+[I 18:55:12.733 NotebookApp] Saving file at /CS0010-FinalProject/ConnorNotebook .ipynb
+[I 18:56:46.028 NotebookApp] Saving file at /CS0010-FinalProject/GenerateNeighborhoods.ipynb
+[W 18:56:46.029 NotebookApp] Notebook CS0010-FinalProject/GenerateNeighborhoods.ipynb is not trusted
+[I 18:57:13.219 NotebookApp] Saving file at /CS0010-FinalProject/ConnorNotebook .ipynb
+[I 18:59:14.131 NotebookApp] Saving file at /CS0010-FinalProject/ConnorNotebook .ipynb
+[I 19:01:14.726 NotebookApp] Saving file at /CS0010-FinalProject/ConnorNotebook .ipynb
+[I 19:03:15.345 NotebookApp] Saving file at /CS0010-FinalProject/ConnorNotebook .ipynb
+[I 19:05:16.131 NotebookApp] Saving file at /CS0010-FinalProject/ConnorNotebook .ipynb
+[W 19:06:42.931 NotebookApp] Culling 'idle' kernel 'python3' (b0b36c0e-f4b6-40e7-84be-2cca67246491) with 1 connections due to 657 seconds of inactivity.
+[I 19:06:42.931 NotebookApp] Kernel shutdown: b0b36c0e-f4b6-40e7-84be-2cca67246491
+[I 19:07:16.420 NotebookApp] Saving file at /CS0010-FinalProject/ConnorNotebook .ipynb
+[I 19:09:16.769 NotebookApp] Saving file at /CS0010-FinalProject/ConnorNotebook .ipynb
+[W 19:10:52.027 NotebookApp] Notebook CS0010-FinalProject/GaigeFiles.ipynb is not trusted
+[I 19:10:52.296 NotebookApp] Kernel started: 1f5e95f9-4ce6-4a6d-b8e1-3e69d56aab02, name: python3
+[W 19:10:56.815 NotebookApp] Notebook CS0010-FinalProject/GenerateNeighborhoods.ipynb is not trusted
+[I 19:10:57.428 NotebookApp] Kernel started: eaef6415-ccb9-477b-84b6-dfde99b4301a, name: python3
+[I 19:11:15.925 NotebookApp] Saving file at /CS0010-FinalProject/GaigeFiles.ipynb
+[W 19:11:15.926 NotebookApp] Notebook CS0010-FinalProject/GaigeFiles.ipynb is not trusted
+[I 19:11:15.986 NotebookApp] Starting buffering for 1f5e95f9-4ce6-4a6d-b8e1-3e69d56aab02:595e26de-d805-472c-8fe2-e53cc8759892
+[I 19:13:16.983 NotebookApp] Saving file at /CS0010-FinalProject/ConnorNotebook .ipynb
+[I 19:15:18.288 NotebookApp] Saving file at /CS0010-FinalProject/ConnorNotebook .ipynb
+[I 19:17:18.975 NotebookApp] Saving file at /CS0010-FinalProject/ConnorNotebook .ipynb
+[I 19:19:20.055 NotebookApp] Saving file at /CS0010-FinalProject/ConnorNotebook .ipynb
+[I 19:21:21.215 NotebookApp] Saving file at /CS0010-FinalProject/ConnorNotebook .ipynb
+[W 19:21:42.930 NotebookApp] Culling 'idle' kernel 'python3' (1f5e95f9-4ce6-4a6d-b8e1-3e69d56aab02) with 0 connections due to 646 seconds of inactivity.
+[I 19:21:42.932 NotebookApp] Kernel shutdown: 1f5e95f9-4ce6-4a6d-b8e1-3e69d56aab02
+[W 19:21:43.235 NotebookApp] Culling 'idle' kernel 'python3' (eaef6415-ccb9-477b-84b6-dfde99b4301a) with 1 connections due to 642 seconds of inactivity.
+[I 19:21:43.235 NotebookApp] Kernel shutdown: eaef6415-ccb9-477b-84b6-dfde99b4301a
+[I 19:23:21.607 NotebookApp] Saving file at /CS0010-FinalProject/ConnorNotebook .ipynb
+[I 19:25:22.094 NotebookApp] Saving file at /CS0010-FinalProject/ConnorNotebook .ipynb
+[I 19:27:22.437 NotebookApp] Saving file at /CS0010-FinalProject/ConnorNotebook .ipynb
+[I 19:29:22.962 NotebookApp] Saving file at /CS0010-FinalProject/ConnorNotebook .ipynb
+[I 19:29:24.332 NotebookApp] Saving file at /CS0010-FinalProject/ConnorNotebook .ipynb
+[I 19:29:32.666 NotebookApp] Kernel shutdown: 1428d1fa-f158-4040-89f1-ca03e4ddf73d
+[I 19:29:33.436 NotebookApp] Kernel started: c3441c37-c539-42df-8d59-3a247463aa46, name: python3
+[I 19:31:12.609 NotebookApp] Kernel shutdown: c3441c37-c539-42df-8d59-3a247463aa46
+[I 19:31:13.279 NotebookApp] Kernel started: 0a20d79e-b66c-419d-96c9-e6df5cd6f896, name: python3
+[I 19:31:24.630 NotebookApp] Saving file at /CS0010-FinalProject/ConnorNotebook .ipynb
+[I 19:32:16.985 NotebookApp] Kernel shutdown: 0a20d79e-b66c-419d-96c9-e6df5cd6f896
+[I 19:32:17.590 NotebookApp] Kernel started: 8edf4c4a-afc6-471c-84fa-8eb5a22d0b0a, name: python3
+[I 19:33:25.068 NotebookApp] Saving file at /CS0010-FinalProject/ConnorNotebook .ipynb
+[I 19:35:26.159 NotebookApp] Saving file at /CS0010-FinalProject/ConnorNotebook .ipynb
+[I 19:37:20.401 NotebookApp] Saving file at /CS0010-FinalProject/ConnorNotebook .ipynb
