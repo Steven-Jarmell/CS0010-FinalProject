@@ -24,7 +24,9 @@ when the restaurant is inspected, where the restaurant being inspected is,
 and the status of the inspection
 Link: https://data.wprdc.org/dataset/allegheny-county-restaurant-food-facility-inspection-violations
 
-The third and final dataset we used is a dataset which records aspestos 
-
+The third and final dataset we used is a dataset which records asbestos 
+permits in Pittsburgh and this shows where the permits are for as well as
+if the asbestos was removed from the building or not
+Link: https://data.wprdc.org/dataset/allegheny-county-asbestos-permit
 
 
