@@ -35,4 +35,5 @@ TLDR: The best neighborhood in Pittsburgh is Hays.
 
 By using datasets for fire alarms, restaurant inspections, and asbestos permits/removals, our group has concluded
 that Hayes is the safest neighborhood, and thus it is the best neighborhood. When we combined the datasets, Hays
-had the lowest average value of 3, which 
+had the lowest average value of 3, which indicates that it is the best as it had no restaurant inspection failures,
+no asbestos, and only 3 fire alarms.
