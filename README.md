@@ -30,3 +30,9 @@ if the asbestos was removed from the building or not
 Link: https://data.wprdc.org/dataset/allegheny-county-asbestos-permit
 
 ## Conlusion 
+
+TLDR: The best neighborhood in Pittsburgh is Hays. 
+
+By using datasets for fire alarms, restaurant inspections, and asbestos permits/removals, our group has concluded
+that Hayes is the safest neighborhood, and thus it is the best neighborhood. When we combined the datasets, Hays
+had the lowest average value of 3, which 
